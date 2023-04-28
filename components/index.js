@@ -1,0 +1,7 @@
+export {default as HeroBanner} from "./HeroBanner"
+export {default as Breakpoint} from "./Breakpoint"
+export {default as Video} from "./Video"
+export {default as Testemonies} from "./Testemonies"
+export {default as Categories} from "./Categories"
+export {default as Footer} from "./Footer"
+export {default as Layout} from "./Layout"
